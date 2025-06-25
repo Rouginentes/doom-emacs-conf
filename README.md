@@ -3,7 +3,7 @@
 
 # doom-emacs-conf
 my doom-emacs configuration
-
+theme - gruvbox
 You need to install the regular Emacs:
 ```
 sudo apt install emacs
